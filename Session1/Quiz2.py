@@ -4,6 +4,7 @@
 #AI_for_Robotics
 #Quiz2
 #Mohammadreza Mousaei
+#mmousaei@andrew.cmu.edu
 
 p = [0.2, 0.2, 0.2, 0.2, 0.2]
 pHit = 0.6

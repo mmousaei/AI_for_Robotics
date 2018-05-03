@@ -6,7 +6,7 @@
 #AI_for_Robotics
 #Quiz1
 #Mohammadreza Mousaei
-
+#mmousaei@andrew.cmu.edu
 p = [0.2, 0.2, 0.2, 0.2, 0.2]
 pHit = 0.6
 pMiss = 0.2
