@@ -7,7 +7,7 @@
 #Quiz1
 #Mohammadreza Mousaei
 
-p = [0.2 0.2 0.2 0.2 0.2]
+p = [0.2, 0.2, 0.2, 0.2, 0.2]
 pHit = 0.6
 pMiss = 0.2
 
